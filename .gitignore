@@ -4,6 +4,7 @@ node_modules/
 .DS_Store
 *.log
 /dist/
-/**/*.tmp
+/**/*tmp
 /coverage/
 .env
+*.bak
