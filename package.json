@@ -1,7 +1,7 @@
 {
   "name": "example-project",
   "version": "1.0.0",
-  "description": "An example project",
+  "description": "An example project for demonstrating JSON edits",
   "main": "index.js",
   "scripts": {
     "test": "jest"
